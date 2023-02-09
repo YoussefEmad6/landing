@@ -12,3 +12,7 @@
 .swiper-pagination-bullet-active {
   background-color: #f063b8 !important;
 }
+.youssef {
+  display: flex;
+  align-items: flex-start;
+}
